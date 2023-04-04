@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Queue Visualizer</title>
+    <link rel="stylesheet" href="queue.css" />
+  </head>
+  <body>
+    <div class="queue-visualizer">
+      <h2>Queue Visualizer</h2>
+      <div class="queue-container">
+        <div class="queue"></div>
+      </div>
+      <form class="queue-form">
+        <input type="text" id="queue-value" placeholder="Enter a value" />
+        <button type="submit" id="queue-add-btn">Enqueue</button>
+        <button type="button" id="queue-remove-btn">Dequeue</button>
+        <button type="button" id="queue-clear-btn">Clear</button>
+      </form>
+    </div>
+    
+    <script src="queue.js"></script>
+  </body>
+</html>
