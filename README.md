@@ -1,8 +1,8 @@
 # Data Structure Visualiser
-
-
-
 Welcome to the Data Structure Visualiser! This project aims to provide a visual representation of various data structures commonly used in computer science and software development. By visualizing these data structures, it becomes easier to understand their internal workings and how they store and manipulate data.
+
+https://github.com/sidesshmore/Data-Structure-Visualiser/assets/109675078/3167208e-2ce8-4109-b218-892d8e54bc29
+
 
 ## Features
 
@@ -14,13 +14,6 @@ Welcome to the Data Structure Visualiser! This project aims to provide a visual 
   
 
 - Interactive interface to add, remove, and manipulate data in the data structures.
-
-## Screen Recording
-
-
-https://github.com/sidesshmore/Data-Structure-Visualiser/assets/109675078/3167208e-2ce8-4109-b218-892d8e54bc29
-
-
 
 
 ## Getting Started
